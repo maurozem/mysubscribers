@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Subscribers</string>
+
+    <!-- SubscriberFragment -->
+    <string name="subscriber_s_name">Subscriber\'s name</string>
+    <string name="email">E-mail</string>
+    <string name="add">Add</string>
+    <string name="subscriber_title">Subscriber</string>
+
+    <!-- The end -->
 </resources>
