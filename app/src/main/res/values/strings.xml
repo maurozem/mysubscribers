@@ -6,6 +6,8 @@
     <string name="email">E-mail</string>
     <string name="add">Add</string>
     <string name="subscriber_title">Subscriber</string>
+    <string name="subscriber_inserted_sucessfully">Subscriber was sucessfully inserted</string>
+    <string name="subscriber_error_to_insert">Error when insert subscriber</string>
 
     <!-- The end -->
 </resources>
